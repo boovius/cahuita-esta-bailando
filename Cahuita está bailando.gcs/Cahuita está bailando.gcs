@@ -1,114 +1,8 @@
 {
-  "ConversionBin": [
-    {
-      "conversionsettings": {
-        "InHandleSize": 0,
-        "InPointFrameNumber": 15,
-        "OutHandleSize": 0,
-        "OutPointFrameNumber": 72
-      },
-      "convert601to709": false,
-      "deInterlace": 0,
-      "destinationpath": "file:///Users/joshuabook/Movies/IMG_3278.mov",
-      "filter420to422": true,
-      "flipped": false,
-      "framerate": 30,
-      "height": 1080,
-      "inframe": 15,
-      "modifiedPath": "/Users/joshuabook/Movies/IMG_3278.mov",
-      "outframe": 72,
-      "source": {
-        "Path": [
-          "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3278.MOV"
-        ],
-        "cliptype": 6,
-        "com.gopro.protuneSource": false,
-        "com.gopro.sourceColorCurve": false,
-        "com.gopro.sourceHasNoMatrix": false,
-        "com.gopro.sourceSharpening": true,
-        "filesize": 586,
-        "flipped": false,
-        "frameduration": 20,
-        "framerate": 30,
-        "goprosource": false,
-        "height": 1080,
-        "inpoint": 0,
-        "interlace": false,
-        "metadata": [
-          {
-            "REEL": "10-26-15",
-            "SDAT": "2015-10-26",
-            "STIM": "18:24:24",
-            "TIMB": 30,
-            "TIMC": "18:24:24:00"
-          }
-        ],
-        "outpoint": 586,
-        "sourceITU601": false,
-        "sourcetype": 0,
-        "width": 1920
-      },
-      "status": 2,
-      "width": 1920,
-      "zoomtofit": 3
-    },
-    {
-      "conversionsettings": {
-        "InHandleSize": 0,
-        "InPointFrameNumber": 204,
-        "OutHandleSize": 0,
-        "OutPointFrameNumber": 292
-      },
-      "convert601to709": false,
-      "deInterlace": 0,
-      "destinationpath": "file:///Users/joshuabook/Movies/IMG_3278_1.mov",
-      "filter420to422": true,
-      "flipped": false,
-      "framerate": 30,
-      "height": 1080,
-      "inframe": 204,
-      "modifiedPath": "/Users/joshuabook/Movies/IMG_3278_1.mov",
-      "outframe": 292,
-      "source": {
-        "Path": [
-          "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3278.MOV"
-        ],
-        "cliptype": 6,
-        "com.gopro.protuneSource": false,
-        "com.gopro.sourceColorCurve": false,
-        "com.gopro.sourceHasNoMatrix": false,
-        "com.gopro.sourceSharpening": true,
-        "filesize": 586,
-        "flipped": false,
-        "frameduration": 20,
-        "framerate": 30,
-        "goprosource": false,
-        "height": 1080,
-        "inpoint": 15,
-        "interlace": false,
-        "metadata": [
-          {
-            "REEL": "10-26-15",
-            "SDAT": "2015-10-26",
-            "STIM": "18:24:24",
-            "TIMB": 30,
-            "TIMC": "18:24:24:00"
-          }
-        ],
-        "outpoint": 72,
-        "sourceITU601": false,
-        "sourcetype": 0,
-        "width": 1920
-      },
-      "status": 2,
-      "width": 1920,
-      "zoomtofit": 3
-    }
-  ],
   "ImportBin": [
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3281.JPG"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3281.JPG"
       ],
       "cliptype": 0,
       "com.gopro.protuneSource": false,
@@ -151,7 +45,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3278.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3278.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -164,7 +58,7 @@
       "framerate": 30,
       "goprosource": false,
       "height": 1080,
-      "inpoint": 204,
+      "inpoint": 0,
       "interlace": false,
       "metadata": [
         {
@@ -175,7 +69,7 @@
           "TIMC": "18:24:24:00"
         }
       ],
-      "outpoint": 293,
+      "outpoint": 586,
       "sourceITU601": false,
       "sourcetype": 0,
       "thumbnailpath": "IMG_3278.jpg",
@@ -183,7 +77,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3279.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3279.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -196,7 +90,7 @@
       "framerate": 30,
       "goprosource": false,
       "height": 1080,
-      "inpoint": 0,
+      "inpoint": 659,
       "interlace": false,
       "metadata": [
         {
@@ -207,7 +101,7 @@
           "TIMC": "18:30:43:00"
         }
       ],
-      "outpoint": 1073,
+      "outpoint": 862,
       "sourceITU601": false,
       "sourcetype": 0,
       "thumbnailpath": "IMG_3279.jpg",
@@ -215,7 +109,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3280.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3280.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -228,7 +122,7 @@
       "framerate": 30,
       "goprosource": false,
       "height": 1080,
-      "inpoint": 0,
+      "inpoint": 474,
       "interlace": false,
       "metadata": [
         {
@@ -247,7 +141,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3287.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3287.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -279,7 +173,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3290.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3290.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -311,7 +205,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3302.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3302.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -343,7 +237,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3303.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3303.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -375,7 +269,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3304.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3304.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -407,7 +301,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3312.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3312.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -439,7 +333,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3313.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3313.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -471,7 +365,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3314.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3314.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -503,7 +397,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3315.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3315.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -535,7 +429,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3316.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3316.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -567,7 +461,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3317.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3317.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -599,7 +493,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3318.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3318.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -631,7 +525,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3319.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3319.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -663,7 +557,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3320.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3320.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -695,7 +589,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3321.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3321.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -727,7 +621,7 @@
     },
     {
       "Path": [
-        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/10-26-15/IMG_3323.MOV"
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-26-15/IMG_3323.MOV"
       ],
       "cliptype": 6,
       "com.gopro.protuneSource": false,
@@ -882,11 +776,14 @@
   "doAutoSave": true,
   "fileversion": 1,
   "platform": 0,
+  "selectedsourcerows": [
+    19
+  ],
   "showTemplateBrowser": false,
   "windowrect": {
-    "origin.x": 0,
+    "origin.x": -0,
     "origin.y": 4,
     "size.height": 873,
-    "size.width": 1440
+    "size.width": 1188
   }
 }
