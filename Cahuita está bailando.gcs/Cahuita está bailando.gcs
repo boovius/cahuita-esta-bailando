@@ -20,7 +20,7 @@
       "metadata": [
         {
           "FIRM": "9.1",
-          "FOV\u0000": [
+          "FOV�": [
             77
           ],
           "GPST": [
@@ -650,6 +650,582 @@
       "sourcetype": 0,
       "thumbnailpath": "IMG_3323.jpg",
       "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3340.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 581,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "18:50:56",
+          "TIMB": 30,
+          "TIMC": "18:50:56:00"
+        }
+      ],
+      "outpoint": 581,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3340.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3341.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 976,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "18:52:22",
+          "TIMB": 30,
+          "TIMC": "18:52:22:00"
+        }
+      ],
+      "outpoint": 976,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3341.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3342.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 2864,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "18:53:04",
+          "TIMB": 30,
+          "TIMC": "18:53:04:00"
+        }
+      ],
+      "outpoint": 2864,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3342.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3343.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 3259,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "18:54:45",
+          "TIMB": 30,
+          "TIMC": "18:54:45:00"
+        }
+      ],
+      "outpoint": 3259,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3343.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3344.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 1905,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "18:58:23",
+          "TIMB": 30,
+          "TIMC": "18:58:23:00"
+        }
+      ],
+      "outpoint": 1905,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3344.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3345.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 501,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:00:35",
+          "TIMB": 30,
+          "TIMC": "19:00:35:00"
+        }
+      ],
+      "outpoint": 501,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3345.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3346.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 465,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:01:44",
+          "TIMB": 30,
+          "TIMC": "19:01:44:00"
+        }
+      ],
+      "outpoint": 465,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3346.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3347.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 1510,
+      "flipped": false,
+      "frameduration": 19,
+      "framerate": 31.578947368421051,
+      "goprosource": false,
+      "height": 720,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:04:17",
+          "TIMB": 31,
+          "TIMC": "19:04:17:00"
+        }
+      ],
+      "outpoint": 1510,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3347.jpg",
+      "width": 1280
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3348.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 2972,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:06:49",
+          "TIMB": 30,
+          "TIMC": "19:06:49:00"
+        }
+      ],
+      "outpoint": 2972,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3348.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3349.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 1162,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:08:48",
+          "TIMB": 30,
+          "TIMC": "19:08:48:00"
+        }
+      ],
+      "outpoint": 1162,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3349.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3350.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 4913,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:10:26",
+          "TIMB": 30,
+          "TIMC": "19:10:26:00"
+        }
+      ],
+      "outpoint": 4913,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3350.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3351.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 3508,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:28:22",
+          "TIMB": 30,
+          "TIMC": "19:28:22:00"
+        }
+      ],
+      "outpoint": 3508,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3351.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3352.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 2166,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:39:06",
+          "TIMB": 30,
+          "TIMC": "19:39:06:00"
+        }
+      ],
+      "outpoint": 2166,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3352.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3353.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 993,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:41:02",
+          "TIMB": 30,
+          "TIMC": "19:41:02:00"
+        }
+      ],
+      "outpoint": 993,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3353.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3354.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 23577,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "19:51:43",
+          "TIMB": 30,
+          "TIMC": "19:51:43:00"
+        }
+      ],
+      "outpoint": 23577,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3354.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3355.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 5580,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "20:05:10",
+          "TIMB": 30,
+          "TIMC": "20:05:10:00"
+        }
+      ],
+      "outpoint": 5580,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3355.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3356.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 2173,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "20:08:28",
+          "TIMB": 30,
+          "TIMC": "20:08:28:00"
+        }
+      ],
+      "outpoint": 2173,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3356.jpg",
+      "width": 1920
+    },
+    {
+      "Path": [
+        "file:///Volumes/BooviusWizardry/Cahuita%20esta%CC%81%20bailando/raw%20footage/10-27-15/IMG_3357.MOV"
+      ],
+      "cliptype": 6,
+      "com.gopro.protuneSource": false,
+      "com.gopro.sourceColorCurve": false,
+      "com.gopro.sourceHasNoMatrix": false,
+      "com.gopro.sourceSharpening": true,
+      "filesize": 12714,
+      "flipped": false,
+      "frameduration": 20,
+      "framerate": 30,
+      "goprosource": false,
+      "height": 1080,
+      "inpoint": 0,
+      "interlace": false,
+      "metadata": [
+        {
+          "REEL": "10-27-15",
+          "SDAT": "2015-10-27",
+          "STIM": "20:15:36",
+          "TIMB": 30,
+          "TIMC": "20:15:36:00"
+        }
+      ],
+      "outpoint": 12714,
+      "sourceITU601": false,
+      "sourcetype": 0,
+      "thumbnailpath": "IMG_3357.jpg",
+      "width": 1920
     }
   ],
   "Playlist": [
@@ -687,7 +1263,7 @@
       "NormalizedBackgroundColorA",
       [
         "Double",
-        1
+        0
       ],
       "NormalizedBackgroundColorB",
       [
@@ -746,27 +1322,11 @@
       ],
       "TracksAudible",
       [
-        "Properties",
-        "Track0",
-        [
-          "Properties",
-          "TrackEntries",
-          [
-            "Properties"
-          ]
-        ]
+        "Properties"
       ],
       "TracksVisual",
       [
-        "Properties",
-        "Track0",
-        [
-          "Properties",
-          "TrackEntries",
-          [
-            "Properties"
-          ]
-        ]
+        "Properties"
       ]
     ]
   ],
@@ -777,11 +1337,11 @@
   "fileversion": 1,
   "platform": 0,
   "selectedsourcerows": [
-    19
+    37
   ],
   "showTemplateBrowser": false,
   "windowrect": {
-    "origin.x": -0,
+    "origin.x": -2,
     "origin.y": 4,
     "size.height": 873,
     "size.width": 1188
